@@ -1,7 +1,7 @@
 import time
 import ctypes
 
-# Import the SendInput object
+# Import the SendInput objectt
 SendInput = ctypes.windll.user32.SendInput
 
 # C struct redefinitions
