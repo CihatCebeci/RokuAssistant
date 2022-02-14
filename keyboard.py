@@ -1,10 +1,3 @@
-"""
-C struct definitions credit
-
-Author: LucasG (https://github.com/lucasg)
-Source: http://stackoverflow.com/questions/13564851/generate-keyboard-events
-"""
-
 import time
 import ctypes
 
