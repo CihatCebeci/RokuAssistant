@@ -11,7 +11,7 @@ Siri ve Google Asistan'dan örnek alınarak hazırlanan, Windows ve Raspian işl
 
 > <b>Tkinter</b> - Roku Assistant temel bilgilendirmeleri ve konsol gibi ögelerin görüntülenmesinin sağlanması için arayüz oluşturma amacıyla kullanıldı. Yazılım her çalıştırıldığını giriş efektinden sonra kullanıcının ekranında görüntülenebilir.
 
-> <b>gTTS</b> - Sanal asistanın sesi Google Developers üzerinden gTTS kütüphanesi ile çekildi. Google Translate üzerinde duyduğumuz Türkçe sesin aynısı olan bu ses metinleri okuyabilir ve söylenenleri metine çevirebilir.
+> <b>GTTS</b> - Sanal asistanın sesi Google Developers üzerinden gTTS kütüphanesi ile çekildi. Google Translate üzerinde duyduğumuz Türkçe sesin aynısı olan bu ses metinleri okuyabilir ve söylenenleri metine çevirebilir.
 
 > <b>Selenium</b> - Tarayıcıların otomatik bir şekilde çalışmasını sağlayan ve oldukça kullanışlı bir yazılım olan Selenium, asistan tarafından Youtube, Hava durumu, Döviz hesaplamaları ve internet araştırmaları gibi amaçlar doğrultusunda kullanıldı.
 
